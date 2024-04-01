@@ -17,4 +17,4 @@ async function getEmbeddings(text) {
   console.log("end of embeddings");
 }
 
-getEmbeddings();
+getEmbeddings("here we go");
